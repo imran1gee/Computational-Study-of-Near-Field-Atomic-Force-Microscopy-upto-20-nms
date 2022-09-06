@@ -1,1 +1,1 @@
-# The computational Modeling of Terahertz Near Field Spectroscopy by Atomic Force Microscopy(AFM), Rsolution upto 20 nms
+# The Reflection and Transmission of Electromagnetic waves from the vertical boundaries
